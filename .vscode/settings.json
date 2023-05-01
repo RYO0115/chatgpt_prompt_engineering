@@ -1,0 +1,13 @@
+{
+    "files.eol": "\n",
+    "terminal.integrated.env.windows": {
+        "PATH": "${workspaceFolder}/.venv/bin;${env:PATH}",
+        "PIPENV_VENV_IN_PROJECT": "true"
+    },
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python.exe",
+    
+    "terminal.integrated.env.linux": {
+        "PIPENV_VENV_IN_PROJECT": "true"
+    },
+
+}
